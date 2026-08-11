@@ -20,6 +20,6 @@ This directory contains end-to-end Machine Learning projects demonstrating pract
 
 ## Created & Maintained By
 
-**Aditya Sarapure**
+**Varsha M Betageri**
 
 *This repository represents my personal Machine Learning learning journey. Every implementation, notebook, experiment, and note has been developed, organized, and maintained by me for educational and portfolio purposes.*
